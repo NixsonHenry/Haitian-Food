@@ -1,0 +1,48 @@
+.html {
+    height: 100%;
+}
+
+.body {
+    font-family: sans-serif;
+
+    margin: 0;
+    padding: 0;
+
+    height: 100%;
+}
+
+/******************** Home Page *******************/
+
+.logo-img {
+    width: 50px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+}
+
+/***************** Home Page Menu *****************/
+
+.home-menu-item {
+    text-decoration: none;
+    text-transform: uppercase;
+
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid #ffffff;
+    
+    display: block;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+} 
+
+.body-home {
+    background-image: url('images/background.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

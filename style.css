@@ -1,0 +1,424 @@
+.html {
+    height: 100%;
+}
+
+.body {
+    font-family: sans-serif;
+
+    margin: 0;
+    padding: 0;
+
+    height: 100%;
+}
+
+.maj-top {
+    margin: 100px 0 50px 0!important;
+}
+
+.padd-bottom {
+    padding-bottom: 90px;
+}
+
+.bg-drop {
+	background:#334090;
+}
+/******************** Home Page *******************/
+
+.logo-img {
+    width: 450px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+}
+
+/***************** Home Page Menu *****************/
+
+.home-menu-item {
+    text-decoration: none;
+    text-transform: uppercase;
+
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid #ffffff;
+    
+    display: block;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+} 
+
+.home-menu-item:hover {
+    color: #CB7C40;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.body-home {
+    background-image: url('images/background.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    color: #000000;
+    font-size: 45x;
+    font-weight: bold;
+}
+
+/***************** STARTERS PAGE *****************/
+
+.body-starters {
+    background: rgb(226, 227, 231);
+}
+
+.body-friedChicken {
+    background-image: url('images/1586289843235.jpeg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-col {
+    background-color: #334090;
+}
+
+
+.search {
+    font-size: 35px;
+}
+
+.bg-dark {
+    background-color: #3F51B5!important;
+}
+
+.co {
+    background-color: #6456CE;
+}
+
+.social-media {
+    font-size: 25px;
+}
+
+.social:hover {
+    color: #e4dede;
+    
+}
+
+.line-1 {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+.line-2 {
+    border: 0;
+    border-top: 1px solid rgba(61, 61, 61, 0.1);
+}
+
+.lorem-bottom {
+    line-height: 1.7;
+    font-size: 18px;
+    color: #E4D8F1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text-card {
+    text-align: justify;
+}
+
+.text-card-2 {
+    text-align: justify;
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+.c-color {
+    background-color: #EFEFEF;
+}
+
+.serving-price {
+    font-size: 17px;
+}
+
+.borders {
+    border-right: 1px solid #ddd;
+}
+
+.li:before {
+    background-color: #3F51B5!important;
+    font-weight: 500;
+}
+
+
+.active {
+    background: #3F51B5!important;
+}
+
+.btn-each-food {
+    background: #3F51B5!important;
+    width: 170px;
+    color: #ffffff;
+    font-weight: bold;
+    height: 50px;
+    font-size: 20px;
+    border: 1px solid #ffffff;
+}
+
+.btn-each-food:hover {
+    background: #334090!important;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/***************** body-order PAGE *****************/
+
+.body-order {
+    background-image: url('images/background.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form {
+    background: #00000091;
+}
+
+.pink {
+    color: #EE5488;
+    font-size: 30px;
+}
+
+.availability {
+    font-size: 18px!important;
+    border: 2px solid #EE5488;
+    border-radius: 5px;
+}
+
+.availability:hover {
+    background-color: #EE5488;
+    border: 2px solid #EE5488;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+.push {
+    top: -6em;
+}
+
+.hauteur {
+    height: 160px;
+}
+
+.hght {
+    height: 170px;
+}
+
+/************************************** contact.html ****************************************/
+
+.contact {
+    background: #334090;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.contact-info {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.mb-form {
+    color: #9C9594;
+    font-size: 16px;
+}
+
+.recently{
+    top: -1.5em;
+}
+.mg-bottom {
+	padding-bottom:100px;
+}
+
+.fas, .far {
+	font-size: 50px;
+	color: #ffffff;
+	margin: 20px 0;
+}
+
+.mg-top-2 {
+	margin-top: 100px;
+}
+
+.btn-blue {
+    background-color: #82B1FC;
+    color: #ffffff;
+    width: 140px;
+    height: 40px;
+    font-size: 15px;
+}
+
+.btn-blue:hover{
+    background: #334090;
+    color: #ffffff;
+}
+
+.write-us {
+    background-color: #82B1FC;
+    top: -2em!important;
+    position: relative;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+.i {
+    font-size: 40px!important;
+}
+
+.placeholder-text {
+    color: rgb(233, 230, 230)!important;
+}
+
+/************************************** About.html ****************************************/
+
+.overlay-1 {
+    background:  #0000002a;
+}
+
+.lorem-2 {
+    font-size: 18px;
+}
+
+.slogan-title {
+    font-size: 47px;
+}
+
+.mg-btn {
+   width: 220px;
+   height: 40px;
+   font-size: 18px;
+}
+
+
+
+.aboutUs {
+	font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about-2 {
+	top: -2.5em;
+	font-size: 18px;
+	position: relative;
+	font-family: sans-serif;
+}
+
+.text-justify1 {
+    color: #615c5c;
+    font-size: 17px;
+	text-align: justify;
+	line-height: 1.8;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.line-height {
+	line-height: 2.5;
+}
+
+.check-color {
+    color: #D1C724;
+    font-weight: bold;
+}
+
+.advantag-text {
+	font-size: 22px;
+	color: #9755BF!important;
+	font-weight: bold;
+}
+
+.advantag-text2 {
+    color: #D9A66F!important;
+    font-weight: bold;
+}
+
+.paradise {
+    color: #000000!important;
+    font-weight: bold;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 42px;
+}
+
+.height-card {
+	height: 300px!important;
+}
+
+.discover {
+	top: -23em;
+	color: #ffffff;
+	position: relative;
+}
+
+.height {
+	height: 500px
+}
+
+.triangle {
+	font-size: 90px;
+	font-weight: bold;
+    color: #F0BE37;
+    top: -.1em;
+    position: relative;
+}
+
+.mb {
+	margin-bottom: 200px;
+}
+
+.flex {
+	display: flex;
+}
+
+.jumbo-2 {
+	background: #F7F5F4;
+	top: -13.6em;
+	position: relative;
+	
+}
+
+.text-about {
+	text-align: justify;
+}
+
+.testimonials-cards {
+    top: -10em;
+}
+
+
+.btn-about {
+    border: 2px solid #ffffff !important;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.btn-about-2 {
+    border-radius: 3px;
+}
+
+.btn-about-2:hover{
+    color: #ffffff;
+}
+
+.logo-text-img2 {
+    width: 150px;
+}                
+
+.col-hr{
+    border: 1px solid rgb(113, 109, 109, 0.2) 
+}
+
+.justify {
+    justify-content: center;
+}
